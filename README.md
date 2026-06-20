@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-brightgreen)](https://deepthi-tr05.github.io/KNN-Classifier-Visualizer/)
 
 ### 🚀 LIve Demo
-[Live Demo](https://knn-classifier.vercel.app/)
+[View Live Demo](https://knn-classifier.vercel.app/)
 ---
 
 ## 🎯 What is this?

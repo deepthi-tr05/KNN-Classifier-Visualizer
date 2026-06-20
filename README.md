@@ -5,8 +5,8 @@
 [![Deploy to GitHub Pages](https://github.com/deepthi-tr05/KNN-Classifier-Visualizer/actions/workflows/deploy.yml/badge.svg)](https://github.com/deepthi-tr05/KNN-Classifier-Visualizer/actions/workflows/deploy.yml)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-brightgreen)](https://deepthi-tr05.github.io/KNN-Classifier-Visualizer/)
 
-### 🚀 [Live Demo]
-(https://knn-classifier.vercel.app/)
+### 🚀 LIve Demo
+[Live Demo](https://knn-classifier.vercel.app/)
 ---
 
 ## 🎯 What is this?
